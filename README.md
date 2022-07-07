@@ -17,7 +17,11 @@ The following libraries are used in this analysis:
 
 ## Purpose of Program
 
-### Real-estate Trend Analysis
+### Real-estate Trend Analysis  
+  
+The purpose of hte program is to evaluate the trends in real-este within the San Francisco market.  First we look at the number of available units and then the rental rates as well as the sale price per square foot.
+
+Finally we break this down by neighborhood through visual analysis to identify areas of opportunity as well as determine if the trends we see at the city level are consistent throughout each of the neighborhoods.
 
 ---
 
@@ -37,7 +41,7 @@ While the macro trend is showing rapidly groowing rent and slow growing sales pr
 
 conversely you are starting to see other neighborhoods starting to turn over from a sales perspective.  Union Square has seen a large increase in sale price per square foot from 2015 to 2016, with a growth rate higher than the rental rate growth.  This indicates that properties are being bought up and may be repurposed as rentals in the near future
 
-![Union Square Rental and Sales](Images/Union_square)
+![Union Square Rental and Sales](Images/Union_square.png)
 
 **Question:** What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
 
